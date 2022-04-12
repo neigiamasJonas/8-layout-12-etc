@@ -1,0 +1,16 @@
+{
+  "name": "8-layout-12-etc",
+  "version": "1.0.0",
+  "description": "12-ish layout + root",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Povilas",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
